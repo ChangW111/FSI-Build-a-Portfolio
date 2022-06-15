@@ -4,3 +4,7 @@
     font-size: none;
     border-radius: 5 px;
 }
+.styled-paragraph {
+    border: 1in;
+    font-size: 100px;
+}
