@@ -1,10 +1,8 @@
-.tank {
-    border: black;
-    text-align: none;
-    font-size: none;
-    border-radius: 5 px;
+image, body {
+    height: 100%;
+    width: 100%;
 }
-.styled-paragraph {
-    border: 1in;
-    font-size: 100px;
+#Angels-of-Persuasion {
+    height: 40%;
+    width: 60%;
 }
